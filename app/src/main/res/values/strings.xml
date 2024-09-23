@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">Art Space</string>
+    <!--First-->
+    <string name="starrynight">The Starry Night</string>
+    <string name="starrynight_author">Vincent van Gogh</string>
+    <string name="starrynight_year">1889</string>
+    <!--Second-->
+    <string name="sunshine">Impression,Sunrise</string>
+    <string name="sunshine_author">Claude Monet</string>
+    <string name="sunshine_year">1872</string>
+    <!--Third-->
+    <string name="hay_wain">The Hay Wain</string>
+    <string name="hay_wain_author">John Constable</string>
+    <string name="hay_wain_year">1821</string>
+    <!--Forth-->
+    <string name="waterlily">Water Lilies</string>
+    <string name="waterlily_author">Claude Monet</string>
+    <string name="waterlily_year">1896-1926</string>
+    <!--fifth-->
+    <string name="oxbow">The Oxbow</string>
+    <string name="oxbow_author">Thomas Cole</string>
+    <string name="oxbow_year">1836</string>
+</resources>
